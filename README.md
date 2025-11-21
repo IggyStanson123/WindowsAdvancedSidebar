@@ -119,4 +119,4 @@ A lot of the feature are built to:
 # Privacy Policy
 
 This app stores app preferences locally on your device. No personal data is collected, transmitted, or shared with third parties.
-The app does not need any internet connection.
+
