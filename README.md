@@ -14,7 +14,9 @@ This is the sidebar/task for power-user that you always wanted! Manage douzens o
 
 # - Settings -
 
-- persistant settings 
+- persistant settings
+- export, share and import settings through JSON text
+- reset settings to defaults
 
 
 # - Shortcuts -
