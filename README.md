@@ -1,5 +1,34 @@
-# WindowsAdvancedSidebar
-Dockable Sidebar for Power-User! Manage douzens of windows with ease!
+# Windows Advanced Sidebar
+This is the sidebar/task for power-user that you always wanted! Manage douzens of windows with ease and customize everything to your need!
+
+
+# - Basic Features -
+
+- dockable sidebar that shows all your visible windows in a list
+- dock to the left or right side
+- choose monitor in a multi-monitor setup
+- choose bar width
+- autostart at windows startup
+- clicking a window brings it to the foreground
+
+
+# - Settings -
+
+- persistant settings 
+
+
+# - Shortcuts -
+
+- create as many global shortcuts as you want and assign them to your windows
+- pressing the shortcuts brings that window to the foreground
+- assign these shortcuts to your most used windows
+- so you don't need the sidebar at all, just use your shortcuts
+
+# - 
+
+
+
+
 
 - highly customizable
 - drag & drop windows
