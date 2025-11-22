@@ -115,6 +115,15 @@ A lot of the feature are built to:
 - A small indicator visualizes pinned windows in the list
 
 
+# - Focus groups -
+
+- Add two or more windows to a focus group
+- When focusing on any window in a focus group, all the other windows are brought to the foregroung
+- Especially handy for multi-monitor setups
+- E.g. click on your email app and the calendar get focused automatically on your second screen
+- E.g. focus your development IDE and your debug/log/test opens on the second screen
+
+
 
 # Privacy Policy
 
