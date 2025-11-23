@@ -66,7 +66,7 @@ A lot of the feature are built to:
 - Use this for apps with a lot of windows or for apps that frequently open/close new windows
 - Pin the most important window of that group to the top of the group for easy access
 - e.g. using Photoshop with multiple windows: group them together and pin your main window to the top of the group
-- Actions on groups like "close all others" etc. 
+- Actions on groups like "close all others", "minimize all" or "move all to another screen"
 
 
 # - Filtering - 
