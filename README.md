@@ -21,6 +21,7 @@ A lot of the feature are built to:
 - customizable bar width
 - autostart at windows startup
 - clicking a window brings it to the foreground
+- changeable double-click action
 
 
 # - Settings -
