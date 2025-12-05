@@ -44,6 +44,7 @@ A lot of the feature are built to:
 - You can have as many shortcuts as you want
 - pressing the shortcuts brings that window to the foreground
 - assign these shortcuts to your most used windows
+- assign either manually or tie it to a specific application
 - so you don't need the sidebar at all, just use your shortcuts to boost your productivity
 
 
@@ -68,7 +69,7 @@ A lot of the feature are built to:
 
 # - Grouping -
 
-- Automatically group together windows from the same exe file or windows class
+- Automatically group together windows through a multi-level grouping system 
 - Show a customizable separator between groups, for excellent visibility
 - This keeps your windows in a nice block and lets you find your windows way easier
 - Use this for apps with a lot of windows or for apps that frequently open/close new windows
