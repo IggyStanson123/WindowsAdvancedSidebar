@@ -30,6 +30,13 @@ A lot of the feature are built to:
 - export, share and import settings through JSON text
 - reset settings to defaults
 
+# - Monitor Layout -
+
+- assign the monitor for the Windows Advanced Sidebar based on your monitor layout
+- create a layout for your standard monitor layout and for laptop only
+- unplug your laptop and the sidebar automatically moves to your laptop screen
+- no more restarting or changing setting
+  
 
 # - Shortcuts -
 
